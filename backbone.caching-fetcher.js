@@ -1,3 +1,7 @@
+/*!
+  backbone.caching-fetcher v1.0
+  Anton Chuchkalov, https://github.com/hedgesky/backbone.caching-fetcher
+*/
 (function (window, $) {
   if (window.Backbone && !window.Backbone.CachingFetcher) {
     // constructor options:
