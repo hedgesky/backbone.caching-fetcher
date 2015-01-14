@@ -1,0 +1,11 @@
+{
+  "name": "backbone.caching-fetcher",
+  "main": "backbone.caching-fetcher.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/hedgesky/backbone.caching-fetcher.git",
+  "authors": [
+    "Anton Chuchkalov <a2new@yandex.ru>"
+  ],
+  "description": "A Backbone plugin to cache results of fetching Backbone models and collections.",
+  "license": "MIT"
+}
